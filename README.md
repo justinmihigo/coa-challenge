@@ -49,4 +49,4 @@
 - if you need to contribute to this app you can fork it, we would be happy to merge your pull request.
 
 ### License
-- # MIT License
+Copyright (c) 2024 Justin Mihigo
