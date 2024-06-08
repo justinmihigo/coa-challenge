@@ -11,6 +11,7 @@ function stringTransform(str) {
     if (length % 5 == 0) {
         console.log(tocharCode(str));
     }
+    // reversing string using reverse function
     else if (length % 3 == 0) {
         console.log(arr.reverse().join(''));
     }
